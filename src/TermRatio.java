@@ -6,7 +6,7 @@ public class TermRatio {
 
     public static void main(String[] args) {
         // declared and initialized variables
-        double  numerator = 49, denominator = 2 , ratio = 0, sum = 0;
+        double  numerator = 49, denominator = 2 , ratio, sum = 0;
         int divNum = 1;
 
         //Expected output shows 2 decimal but the question asks for three decimals
